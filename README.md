@@ -1,7 +1,7 @@
 ## Hi there 👋
 - ⚡ Fun fact: Back to play DevOps
 - 🔭 I’m currently working on Docker
-- 🤔 I’m looking for help with DevOps
+//- 🤔 I’m looking for help with DevOps
 
 <!--
 **herati/herati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
