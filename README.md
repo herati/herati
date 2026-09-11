@@ -1,6 +1,5 @@
 ## Hi there 👋
 - ⚡ Fun fact: Back to play DevOps
-- 🔭 I’m currently working on Docker
 - 🤔 I’m looking for help with DevOps
 - 👯 I’m looking to collaborate on to an Open Source Project
 
